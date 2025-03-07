@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a beginner developer
+### I am a beginner developer
 
 ***Core technologies:***
 ><a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white" width="55"></a>
